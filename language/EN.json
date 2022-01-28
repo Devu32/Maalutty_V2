@@ -84,7 +84,7 @@
         "heroku": {
             "RESTART_DESC": "Restart Maalutty",
             "RESTART_MSG": "```Restarting...```",
-            "SHUTDOWN_DESC": "Shutdown Maalutty",
+            "SHUTDOWN_DESC": "Shutdown devuutty ",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
@@ -207,8 +207,8 @@
             "UPLOADING_SONG": "* maalutty song Upload cheyyatte 😎*",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "*maalutty vide youtubnn Download cheyyatte😎*",
-            "UPLOADING_VIDEO": "* maalutty Upload cheyyatte 😎*",
+            "DOWNLOADING_VIDEO": "*devuutty vide youtubnn Download cheyyatte😎*",
+            "UPLOADING_VIDEO": "* devuutty Upload cheyyatte 😎*",
             "LOADING": "*Downloading video*",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
@@ -222,7 +222,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*oru photokko videokko reply thaa😂!*",
-            "DOWNLOADING": "```Maalutty photo sticker aakitt ippo sheriyakki tharaam😎```"
+            "DOWNLOADING": "```devuutty photo sticker aakitt ippo sheriyakki tharaam😎```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
